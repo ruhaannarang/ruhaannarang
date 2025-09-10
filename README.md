@@ -54,7 +54,6 @@ A responsive quiz website with multiple-choice questions, instant feedback, and 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhaannarang&theme=tokyonight" alt="GitHub Streak" />
 
-<img src="https://profile-counter.glitch.me/ruhaannarang/count.svg?" alt="visitors count" />
 
 ## GitHub Trophies
 
