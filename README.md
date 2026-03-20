@@ -1,65 +1,24 @@
-# Hello 👋, I'm Ruhaan Narang
-### Web Developer
+# 💫 About Me:
+ 💻 Currently diving deep into Java & DSA  <br> 🌐 Learning Web Development step by step  <br> 🧠 Exploring how things work under the hood <br> 📫 How to reach me: ruhaannarang3@gmail.com<br> 
 
-I’m a student currently pursuing B.Tech in Computer Science and Engineering from M.S Ramaiah Institute of Technology, Bangalore
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/ruhaannarang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/ruhaan_narang" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="https://ruhaannarang.github.io/Ruhaan-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.instagram.com/ruh_aaan.14/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruh_aaan.14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruhaannarang) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ruhaan_narang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruhaannarang3@gmail.com) 
 
-## Skills
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ruhaannarang&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ruhaannarang&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhaannarang&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ruhaannarang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Projects
-
-### Weather Website
-
-A sleek weather forecast web app that fetches real-time weather data using APIs. Users can search any city to get current temperature 🌡️, conditions ☁️, and icons 📍and 24hr temperature forecast
-
-[View Project](https://ruhaannarang.github.io/Weather/)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ruhaannarang&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ruhaannarang&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Rock-Paper-Scissors Game Website
-
-A fun and interactive game where users play against the computer with instant results and  play again option . 🎮
-
-[View Project](https://ruhaannarang.github.io/Rock-Paper-Scissor/)
-
----
-
-### Quiz Website
-
-A responsive quiz website with multiple-choice questions, instant feedback, and a final score summary. 📊
-
-[View Project](https://ruhaannarang.github.io/quiz/)
-
----
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ruhaannarang&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhaannarang&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhaannarang&theme=tokyonight" alt="GitHub Streak" />
-
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ruhaannarang" alt="trophy" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhaannarang&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
