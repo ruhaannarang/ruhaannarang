@@ -1,30 +1,130 @@
-# 💫 About Me:
- 💻 Currently diving deep into Java & DSA  <br> 🌐 Learning Web Development step by step  <br> 🧠 Exploring how things work under the hood <br> 📫 How to reach me: ruhaannarang3@gmail.com<br> 
+# Hey there, I'm Ruhaan Narang! 👋
 
+### 🚀 Computer Science Student | Full-Stack Developer | AI/ML Enthusiast
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruh_aaan.14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruhaannarang) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ruhaan_narang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruhaannarang3@gmail.com) 
+I'm a Computer Science Engineering student at **M.S. Ramaiah Institute of Technology, Bangalore**, passionate about building technology-driven solutions and exploring the intersection of software engineering and artificial intelligence.
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+I enjoy turning ideas into real-world applications, experimenting with emerging technologies, and constantly challenging myself to learn something new.
 
-<!-- <img src="https://profile-counter.glitch.me/ruhaannarang/count.svg?" alt="visitors count" /> -->
+- 🎓 Pursuing Computer Science Engineering (2025–2029)
+- 💻 Interested in Full-Stack Development, Backend Engineering & AI/ML
+- 🤖 Exploring Generative AI, RAG Pipelines, LLMs & AI Agents
+- 🏆 Actively participating in hackathons and collaborative projects
+- 🌱 Always learning, building, and improving.
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/ruhaannarang/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://ruhaannarang.github.io/Ruhaan-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:ruhaannarang3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ruhaannarang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ruhaannarang&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ruhaannarang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ruhaannarang&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 💻 Tech Stack & Tools
 
+### Programming Languages
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css" alt="Programming Languages"/>
+</p>
 
-## GitHub Activity Graph
+### Frontend Development
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ruhaannarang&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="Frontend Technologies"/>
+</p>
+
+### Backend Development & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" alt="Backend and Databases"/>
+</p>
+
+### AI/ML & Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,postman,vscode,linux,langchain" alt="AI and Developer Tools"/>
+</p>
+
+---
+
+## 🧠 Areas of Interest
+
+- **Full-Stack Development:** Building responsive, scalable web applications.
+- **Backend Engineering:** Designing APIs, authentication systems, and database architectures.
+- **Artificial Intelligence:** Exploring machine learning, LLMs, and Generative AI.
+- **RAG & AI Agents:** Developing intelligent systems with retrieval pipelines, tool calling, and agent orchestration.
+- **Problem Solving:** Strengthening Data Structures and Algorithms and software engineering fundamentals.
+
+---
+
+## 🚀 Featured Projects
+
+Here are some areas of work I'm particularly interested in:
+
+| Project | Description |
+|---|---|
+| **INAURA** | An AI-powered platform connecting student skills with industry requirements through personalized learning roadmaps. |
+| **Voltaura** | A smart water and renewable-energy monitoring solution focused on sustainable resource management. |
+| **Job Search Portal** | A full-stack platform for discovering and managing job opportunities with a backend API, authentication, and database integration. |
+| **SubSentry AI** | An AI-driven financial intelligence system for subscription tracking, spending anomaly detection, and scam identification. |
+| **AI Code Editor** | An AI-powered coding environment exploring LLM integration and intelligent developer assistance. |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruhaannarang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhaannarang&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ruhaannarang&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🧩 LeetCode Activity
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/ruh_aaan/graph?theme=dark&width=1000" alt="LeetCode Contribution Graph"/>
+</p>
+
+---
+
+## 🏆 Achievements & Activities
+
+- Selected for **GirlScript Summer of Code**.
+- Participated in multiple hackathons and collaborative development initiatives.
+- Working on innovative projects involving AI, full-stack development, and emerging technologies.
+
+---
+
+## ⚡ A Little More About Me
+
+- 🔍 I love exploring how things work behind the scenes.
+- 🛠️ I prefer learning by building actual projects.
+- 🤝 I enjoy collaborating with developers and exchanging ideas.
+- 📚 Currently strengthening my DSA and software engineering fundamentals.
+- 🎯 My long-term goal is to become a versatile software engineer and build impactful products.
+
+---
+
+<p align="center">
+  <b>"Great things are built one commit at a time."</b> 🚀
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruhaannarang&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
